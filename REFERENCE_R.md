@@ -193,7 +193,7 @@ knn_fit <- workflow() |>
 pred <- predict(knn_fit, new_data)
 ```
 
-The functions below are relevant for Week 7 (`classification1`) and beyond.
+The functions below are relevant for Week 6 (`classification1`) and beyond.
 
 | Function                                   | Description                                    |
 | ------------------------------------------ | ---------------------------------------------- |
